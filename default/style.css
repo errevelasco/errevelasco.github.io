@@ -6,6 +6,13 @@
 *
 * There are also some obscure rules in base.css
 */
+
+.fixed-element {
+            position: fixed;
+            top: 20px;
+            right: 25px;
+        }
+
 tl {
 position: fixed;
 bottom: 57px;
